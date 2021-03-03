@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ElJur</string>
+    <string-array name="spinner_categories">
+        <item>Ученик</item>
+        <item>Учитель</item>
+        <item>Работник</item>
+    </string-array>
+</resources>
